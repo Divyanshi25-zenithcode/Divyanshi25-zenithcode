@@ -2,7 +2,7 @@
 
 💻highly meticulous B.Tech Computer Science student
 </p>
-- technophile with a proclivity for solving complex architectural problems
+- technophile with a proclivity for solving complex coding problems
 
  ## 🚀 About Me
 
