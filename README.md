@@ -1,4 +1,4 @@
-## Hi there 👋Divyanshi
+## 💫 Hi there 👋 Divyanshi
 
 💻highly meticulous B.Tech Computer Science student
 </p>
