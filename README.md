@@ -1,7 +1,7 @@
 ## 💫 Hi there 👋 Divyanshi
 
-💻highly meticulous <mark/>B.Tech Computer Science student
-</p>
+  💻highly meticulous <b>B.Tech Computer Science student</br>
+</br>
 - technophile with a proclivity for solving complex coding problems
 
  ## 🚀 About Me
